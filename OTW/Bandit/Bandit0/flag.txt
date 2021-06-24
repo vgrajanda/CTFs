@@ -1,0 +1,6 @@
+# Command to connect with ssh
+# The ssh command it can be used with this structure:
+# "username@host -pPortNumber"
+
+~$ ssh bandit0@bandit.labs.overthewire.org -p2220
+
